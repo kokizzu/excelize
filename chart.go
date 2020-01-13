@@ -695,7 +695,7 @@ func parseFormatChartSet(formatSet string) (*formatChart, error) {
 // minimum: Specifies that the fixed minimum, 0 is auto. The minimum property is optional. The default value is auto.
 //
 // Set chart size by dimension property. The dimension property is optional. The default width is 480, and height is 290.
-
+//
 // combo: Specifies tha create a chart that combines two art types in a single
 // chart. For example, create a clustered column - line chart with data
 // Sheet1!$E$1:$L$15:
